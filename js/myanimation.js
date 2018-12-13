@@ -6,8 +6,8 @@ var radMin = 5,
   radThreshold = 25; //IFF special, over this radius concentric, otherwise filled
 
 //min and max speed to move
-var speedMin = 0.8,
-  speedMax = 5.0;
+var speedMin = 0.5,
+  speedMax = 2.5;
 
 //max reachable opacity for every circle and blur effect
 var maxOpacity = 0.6;
